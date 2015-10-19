@@ -210,9 +210,15 @@ body .side_widget a:hover { color:#20aede; }
 .post_list .date .year { display:block; padding:8px 0 0 0; color:#b3b5b4; }
 .post_list .date .month { display:block; }
 
-.post_list .post_category { float:left; margin:23px 0 0 10px; font-size:12px; width:210px; }
+.post_list .post_category { float:left; margin:13px 0 0 10px; font-size:12px; width:210px; }
 .post_list .post_category a { text-decoration:none; color:#333; }
 .post_list .post_category a:hover { text-decoration:underline; }
+.post_list .post_category { background:url(img/common/icon_category.gif) no-repeat 3px 7px; padding:0 0 0 18px; }
+
+.post_list .post_tags { float:left; margin:0px 0 0 10px; font-size:12px; width:210px; }
+.post_list .post_tags a { text-decoration:none; color:#333; }
+.post_list .post_tags a:hover { text-decoration:underline; }
+.post_list .post_tags { background:url(img/common/icon_tag.gif) no-repeat 3px 7px; padding:0 0 0 18px;  }
 
 .post_list .post_title { font-size:14px; margin:0 20px 10px 20px; clear:both; }
 .post_list .post_title a { color:#3fbae3; text-decoration:none; }

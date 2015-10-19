@@ -64,7 +64,7 @@
    <div class="meta clearfix">
     <p class="date"><span class="year"><?php the_time('Y'); ?></span><span class="month"><?php the_time('n/j'); ?></span></p>
     <p class="post_category"><?php the_category(', '); ?></p>
-    <p class="post_tags"><?php the_tags(', '); ?></p>
+    <p class="post_tags"><?php the_tags(''); ?></p>
    </div>
    <h3 class="post_title"><a href="<?php the_permalink() ?>"><?php the_title(); ?></a></h3>
    <div class="excerpt">
