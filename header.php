@@ -238,10 +238,10 @@ body {
 
    <?php include('widget.php'); ?>
 
-   <p id="copy_right">&copy;&nbsp;<a href="<?php echo esc_url(home_url('/')); ?>"><?php bloginfo('name'); ?></a> All rights reserved.</p>
    <p id="user_policy"><a href="http://localhost:8888/?p=112">利用規約</a></p>
    <p id="privacy_policy"><a href="http://localhost:8888/?p=121">プライバシーポリシー</a></p>
    <p id="privacy_policy"><a href="http://goo.gl/forms/1grJR0OM9I",  target="_blank">お問い合わせ</a></p>
+   <p id="copy_right">now here© 2015 forbeans inc.</p>
   </div><!-- END #left_col -->
 
   <?php }; ?>
