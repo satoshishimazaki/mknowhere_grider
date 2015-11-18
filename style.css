@@ -147,6 +147,13 @@ input[type="text"], input[type="password"], textarea, select { outline: none; }
 #copy_right { font-size:10px; margin:0; }
 #copy_right a { color:#333; }
 
+/* user_policy */
+#user_policy { font-size:10px; margin:0; }
+#user_policy a { color:#333; }
+
+/* privacy_policy */
+#privacy_policy { font-size:10px; margin:0; }
+#privacy_policy a { color:#333; }
 
 /* side widget setting */
 .side_widget { padding:10px; margin:0 0 16px 0; font-size:11px; }
